@@ -7,7 +7,7 @@ import android.view.MenuItem;
 
 
 public class EricasLogin extends ActionBarActivity {
-
+    // Secret message to Erica
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
